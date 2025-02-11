@@ -14,4 +14,4 @@ Output
 ```
 
 _© 2023 XYZ, Inc._
-#Here is an update for the new year
+
